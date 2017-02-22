@@ -6,4 +6,4 @@
 **삼성 사이트 카피 연습**
 
 
-[사이트 바로가기](http://www.samsung.co.kr){:target="_blank"}
+[사이트 바로가기](http://www.samsung.co.kr)
